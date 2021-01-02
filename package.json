@@ -10,9 +10,6 @@
     "view",
     "navigation"
   ],
-  "activationCommands": {
-    "atom-workspace": "latex-tree:toggle-tree-view"
-  },
   "repository": "https://github.com/raphael-cch/latex-tree",
   "license": "GPL-3.0+",
   "engines": {
